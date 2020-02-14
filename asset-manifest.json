@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ciberprograma/static/css/main.12e04618.chunk.css",
+    "main.js": "/ciberprograma/static/js/main.27b1b477.chunk.js",
+    "main.js.map": "/ciberprograma/static/js/main.27b1b477.chunk.js.map",
+    "runtime-main.js": "/ciberprograma/static/js/runtime-main.45a1816d.js",
+    "runtime-main.js.map": "/ciberprograma/static/js/runtime-main.45a1816d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/ciberprograma/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.074ebaf5.chunk.js": "/ciberprograma/static/js/2.074ebaf5.chunk.js",
+    "static/js/2.074ebaf5.chunk.js.map": "/ciberprograma/static/js/2.074ebaf5.chunk.js.map",
+    "index.html": "/ciberprograma/index.html",
+    "precache-manifest.b49db67d436eb24614c26b21ccc3c4dc.js": "/ciberprograma/precache-manifest.b49db67d436eb24614c26b21ccc3c4dc.js",
+    "service-worker.js": "/ciberprograma/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/ciberprograma/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.12e04618.chunk.css.map": "/ciberprograma/static/css/main.12e04618.chunk.css.map",
+    "static/js/2.074ebaf5.chunk.js.LICENSE": "/ciberprograma/static/js/2.074ebaf5.chunk.js.LICENSE",
+    "static/media/loading.svg": "/ciberprograma/static/media/loading.a1e184b8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45a1816d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.074ebaf5.chunk.js",
+    "static/css/main.12e04618.chunk.css",
+    "static/js/main.27b1b477.chunk.js"
+  ]
+}
